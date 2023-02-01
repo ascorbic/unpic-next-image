@@ -42,18 +42,18 @@ export default function Home() {
         <div className={styles.center}>
           <Image
             className={styles.logo}
-            src="/next.svg"
+            src="https://res.cloudinary.com/demo/image/upload/c_lfill,w_800,h_550,f_auto/dog.webp"
             alt="Next.js Logo"
-            width={180}
-            height={37}
+            width={800}
+            height={600}
             priority
           />
           <div className={styles.thirteen}>
             <Image
-              src="/thirteen.svg"
+              src="https://cultivatedemo.files.wordpress.com/2022/06/marisa-morton-c9xtptclntg-unsplash-1.jpg"
               alt="13"
-              width={40}
-              height={31}
+              width={400}
+              height={300}
               priority
             />
           </div>
