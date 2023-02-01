@@ -28,11 +28,11 @@ export default function Home() {
             >
               By{' '}
               <Image
-                src="/vercel.svg"
+                src="https://bunnyoptimizerdemo.b-cdn.net/bunny7.jpg?width=300"
                 alt="Vercel Logo"
                 className={styles.vercelLogo}
                 width={100}
-                height={24}
+              height={40}
                 priority
               />
             </a>
@@ -48,7 +48,7 @@ export default function Home() {
             height={600}
             priority
           />
-          <div className={styles.thirteen}>
+          <div className={styles.center}>
             <Image
               src="https://cultivatedemo.files.wordpress.com/2022/06/marisa-morton-c9xtptclntg-unsplash-1.jpg"
               alt="13"
